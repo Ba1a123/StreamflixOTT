@@ -13,7 +13,7 @@ function Nav() {
         }} > 
         </img>
         <img className="nav_avatar"
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-yQFL1YOsN3esm6p1jB1HT-Q6qKtxtZqh9LGwMDIgDCy-p54eMf8jdGSN6yZUeySqseA&usqp=CAU"
+        src="streamflix.png"
         alt="logo"></img>
       </div>
   )
