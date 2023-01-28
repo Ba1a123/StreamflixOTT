@@ -1,6 +1,5 @@
 import React from 'react';
 import './nav.css';
-import './streamflixlogo.png';
 
 function Nav() {
   return (
